@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<html lang="es">
+<meta name="description">
+<link rel="icon" href="favicon.ico">
+(og:title, og:image)
+<!-- Roy Badillo 9/24/2026 -->.
+<head>
+ <title>Roy Badillo</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width,initial-scale=1.0">
+ <meta name="author" content="Your Name">
+ <meta name="description" content="A portfolio showcasing my web development work.">
+</head>
+
+<body>
+ <!-- Portfolio Website -->.
+  <h1>Hello World</h1>
+  <p>Reflection Questions</p>
+  <!-- Header / Hero Section -->.
+  <!-- Navigation -->.
+  <!-- About Section -->.
+  <!-- Projects Section -->.
+  <!-- Contact Section -->.
+  <!-- Footer -->.
+</body>
+</html>
