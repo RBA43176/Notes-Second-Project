@@ -1,3 +1,3 @@
-.TextInMotion {
-    color: navy;
+html {
+  scroll-behavior: smooth;
 }
